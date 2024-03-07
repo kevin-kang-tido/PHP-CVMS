@@ -1,0 +1,14 @@
+
+Setup layout:
+
+1. part of layout (menu)
+2. Users
+3. Login and logout
+4. people
+    create
+    list
+    edit
+    delete
+    view detail 
+    insert skill for a people
+4. skill
